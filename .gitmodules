@@ -1,0 +1,3 @@
+[submodule "themes/xlog"]
+	path = themes/xlog
+	url = git@github.com-kemeow815:lin-snow/hugo-theme-xlog.git
