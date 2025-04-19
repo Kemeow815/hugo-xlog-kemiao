@@ -2,103 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kemiaofx.cn/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2021-07-18T10:52:59+08:00</lastmod>
   </url><url>
-    <loc>https://www.kemiaofx.cn/posts/markdown-syntax/</loc>
+    <loc>http://localhost:1313/tags/mermaid/</loc>
     <lastmod>2021-07-18T10:52:59+08:00</lastmod>
   </url><url>
-    <loc>https://www.kemiaofx.cn/tags/mermaid/</loc>
+    <loc>http://localhost:1313/posts/mermaid-diagrams/</loc>
     <lastmod>2021-07-18T10:52:59+08:00</lastmod>
   </url><url>
-    <loc>https://www.kemiaofx.cn/posts/mermaid-diagrams/</loc>
-    <lastmod>2021-07-18T10:52:59+08:00</lastmod>
-  </url><url>
-    <loc>https://www.kemiaofx.cn/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2021-07-18T10:52:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kemiaofx.cn/en/posts/"
+                href="http://localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kemiaofx.cn/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>https://www.kemiaofx.cn/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-07-18T10:52:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kemiaofx.cn/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kemiaofx.cn/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://www.kemiaofx.cn/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-07-18T10:52:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kemiaofx.cn/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kemiaofx.cn/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://www.kemiaofx.cn/tags/katex/</loc>
+    <loc>http://localhost:1313/tags/katex/</loc>
     <lastmod>2020-07-18T10:52:59+08:00</lastmod>
   </url><url>
-    <loc>https://www.kemiaofx.cn/posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/posts/math-typesetting/</loc>
     <lastmod>2020-07-18T10:52:59+08:00</lastmod>
   </url><url>
-    <loc>https://www.kemiaofx.cn/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
   </url><url>
-    <loc>https://www.kemiaofx.cn/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kemiaofx.cn/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kemiaofx.cn/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://www.kemiaofx.cn/pages/links/</loc>
+    <loc>http://localhost:1313/pages/links/</loc>
   </url><url>
-    <loc>https://www.kemiaofx.cn/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
   </url><url>
-    <loc>https://www.kemiaofx.cn/series/</loc>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kemiaofx.cn/en/series/"
+                href="http://localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kemiaofx.cn/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://www.kemiaofx.cn/posts/search/</loc>
+    <loc>http://localhost:1313/posts/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kemiaofx.cn/en/posts/search/"
+                href="http://localhost:1313/en/posts/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.kemiaofx.cn/posts/search/"
+                href="http://localhost:1313/posts/search/"
                 />
   </url>
 </urlset>

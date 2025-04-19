@@ -2,27 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>喵落阁</title>
-    <link>https://www.kemiaofx.cn/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 喵落阁</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025-present Xlog</copyright>
-    <lastBuildDate>Sun, 18 Jul 2021 10:52:59 +0800</lastBuildDate><atom:link href="https://www.kemiaofx.cn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown 语法指北</title>
-      <link>https://www.kemiaofx.cn/posts/markdown-syntax/</link>
-      <pubDate>Sun, 18 Jul 2021 10:52:59 +0800</pubDate>
-      
-      <guid>https://www.kemiaofx.cn/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;本文提供了一个可以在 Hugo 内容文件中使用的基本 Markdown 语法示例，还展示了基本 HTML 元素是否在 Hugo 主题中使用 CSS 进行修饰。&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 18 Jul 2021 10:52:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mermaid Diagrams</title>
-      <link>https://www.kemiaofx.cn/posts/mermaid-diagrams/</link>
+      <link>http://localhost:1313/posts/mermaid-diagrams/</link>
       <pubDate>Sun, 18 Jul 2021 10:52:59 +0800</pubDate>
       
-      <guid>https://www.kemiaofx.cn/posts/mermaid-diagrams/</guid>
+      <guid>http://localhost:1313/posts/mermaid-diagrams/</guid>
       <description>&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
 &lt;p&gt;The following are some examples of the diagrams, charts and graphs that can be made using Mermaid. Click here to jump into the &lt;a href=&#34;http://mermaid-js.github.io/mermaid/&#34;&gt;full syntax&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;flowchart&#34;&gt;Flowchart&lt;/h3&gt;
@@ -54,10 +45,10 @@ Bob--&amp;gt;&amp;gt;John: Jolly good!
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://www.kemiaofx.cn/posts/math-typesetting/</link>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
       <pubDate>Sat, 18 Jul 2020 10:52:59 +0800</pubDate>
       
-      <guid>https://www.kemiaofx.cn/posts/math-typesetting/</guid>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries like &lt;a href=&#34;https://katex.org&#34;&gt;KaTeX&lt;/a&gt; the one that Minima uses. Here&amp;rsquo;s what you can do in the configuration file to enable it.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;math:
   enable: false
@@ -77,10 +68,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>https://www.kemiaofx.cn/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kemiaofx.cn/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       <description>&lt;h2 id=&#34;hiiiiiiii&#34;&gt;🌝Hiiiiiiii~：&lt;/h2&gt;
 &lt;p&gt;我的自画像：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   　    　▃▆█▇▄▖
@@ -130,20 +121,29 @@ $$&lt;/p&gt;
     
     <item>
       <title>links</title>
-      <link>https://www.kemiaofx.cn/pages/links/</link>
+      <link>http://localhost:1313/pages/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kemiaofx.cn/pages/links/</guid>
+      <guid>http://localhost:1313/pages/links/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.linsnow.cn/&#34;&gt;L1nSn0w&amp;rsquo;s Blog&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://linsnow.cn/&#34;&gt;L1nSn0w&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>搜索</title>
-      <link>https://www.kemiaofx.cn/posts/search/</link>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kemiaofx.cn/posts/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>http://localhost:1313/posts/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/search/</guid>
       <description></description>
     </item>
     
